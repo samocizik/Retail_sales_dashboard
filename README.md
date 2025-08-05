@@ -17,9 +17,9 @@ The dashboard includes key sales metrics and allows filtering by gender, month, 
 
 ## Files in this repository
 
-- `dashboard.xlsx` — Interactive Excel dashboard  
-- `workflow.docx` — Detailed description of the project workflow and process  
-- `images/` — Screenshots and GIFs demonstrating dashboard features
+- `retail_sales_dashboard_cizik.xlsx` — Interactive Excel dashboard  
+- `retail sales dashboard 2023 - workflow.docx` — Detailed description of the project workflow and process  
+- `dashboard.gif` — GIF demonstrating dashboard features
 
 ---
 
